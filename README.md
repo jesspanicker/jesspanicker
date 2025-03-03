@@ -5,7 +5,6 @@
 
 - Masters of Science in Bioinformatics
 - Bachelor of Science in Health Science with a minor in Public Health
-- Extensive experience as a Medical Scribe in Interventional Pulmonology, where I've gained in-depth knowledge of pulmonology diagnostics and lung cancer.
 
 <h3 align="left">Currently looking for:</h3>
 
